@@ -169,7 +169,7 @@ to select the whole line), then press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> +
 ## age  <- age - 20        # age?
 ## mass_index <- mass/age  # mass_index?
 ```
-#FUNCTIONS AND THEIR DATA TYPES ----
+#FUNCTIONS AND DATA TYPES ----
 ### Functions and their arguments
 
 Functions are "canned scripts" that automate more complicated sets of commands
